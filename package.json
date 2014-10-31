@@ -1,0 +1,18 @@
+{
+  "name": "obi-wan",
+  "description": "obi-wan app",
+  "version": "0.0.1",
+  "private": false,
+  "main": "app.js",
+  "dependencies": {
+    "twit": "1.1.18",
+    "express": "~4.9.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrisonhunter/obiwanjs"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
