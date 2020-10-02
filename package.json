@@ -6,7 +6,7 @@
   "main": "app.js",
   "dependencies": {
     "twit": "1.1.18",
-    "express": "~4.9.x"
+    "express": "~4.17.x"
   },
   "repository": {
     "type": "git",
